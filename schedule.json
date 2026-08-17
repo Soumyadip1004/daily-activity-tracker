@@ -1,0 +1,20 @@
+{
+  "monday": [],
+  "tuesday": [
+    {
+      "start": "09:00",
+      "end": "10:30",
+      "label": "dsa"
+    },
+    {
+      "start": "09:00",
+      "end": "10:30",
+      "label": "dbms"
+    }
+  ],
+  "wednesday": [],
+  "thursday": [],
+  "friday": [],
+  "saturday": [],
+  "sunday": []
+}
